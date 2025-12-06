@@ -69,9 +69,7 @@ export default function MainMenu() {
                         />
                     </Link>
                     <Link
-                        to={
-                            "https://super-smash-locator.web.app/"
-                        }
+                        to={"https://super-smash-locator.web.app/"}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="md:w-1/4 md:p-[0.4vh]"
@@ -83,7 +81,7 @@ export default function MainMenu() {
                         />
                     </Link>
                     <Link
-                        to={" /"}
+                        to={"https://github.com/Liban-Mahdi/Personal-Portfolio"}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="md:w-1/4 md:p-[0.4vh]"
