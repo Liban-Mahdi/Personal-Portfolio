@@ -41,9 +41,9 @@ const WorkExperienceView = () => {
              id: 4,
             year: "2024",
             company: "Ottawa Community Housing",
-            position: "Volunteer",
+            position: "Data Analyst Volunteer",
             description:
-                "Helped maintain OCH properties by cleaning common areas, organizing supplies, and supporting light maintenance tasks. Worked with staff to keep buildings safe and presentable for tenants.",
+                "Cleaned and organized tenant service and maintenance request data, then built Power BI dashboards to track request volume and response times for internal reporting.",
              color: "bg-purple-600",
         },
 
