@@ -166,6 +166,3 @@ const WorkExperienceView = () => {
 };
 
 export default WorkExperienceView;
-};
-
-export default WorkExperienceView;
